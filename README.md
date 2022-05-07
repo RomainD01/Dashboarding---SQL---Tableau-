@@ -7,7 +7,7 @@ You are commissioned by a company selling models and scale models. The company a
 
 
 
-Objective
+Objective :
 
 Your dashboard should revolve around these 4 main topics: sales, finance, logistics, and human resources.
 Here are the indicators that should be present in your dashboard. Visualizations would also be appreciated. And you are invited to practice your advisory role, by proposing additional KPIs and charts.
